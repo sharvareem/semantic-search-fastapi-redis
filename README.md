@@ -1,6 +1,5 @@
 
-# 21BAI1558_ML Project
-This repository contains the 21BAI1558_ML project, which implements a machine learning pipeline for document ingestion, processing, and semantic search using OpenAI's embedding API and Redis for vector-based retrieval. The project also provides a FastAPI-based search service, enabling users to query documents based on semantic similarity.
+This repository contains a project that implements a machine learning pipeline for document ingestion, processing, and semantic search using OpenAI's embedding API and Redis for vector-based retrieval. The project also provides a FastAPI-based search service, enabling users to query documents based on semantic similarity.
 
 # Overview
 This project demonstrates a full pipeline for document embedding and semantic search. The core functionalities include:
